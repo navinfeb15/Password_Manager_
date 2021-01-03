@@ -1,0 +1,5 @@
+Packages:
+  tkinter
+  random
+  sqlite3
+  hashlib
